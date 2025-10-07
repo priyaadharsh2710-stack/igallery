@@ -32,7 +32,8 @@ Publish the website in the given URL.
     </head>
     <body>
         <div class="gallery">
-            <img src="image1.jpg" id="image1">
+            <img src="![image](https://github.com/user-attachments/assets/550fcb4f-1eb3-4813-ae5d-4112e8442500)
+" id="image1">
             <img src="image2.png" id="image2"> 
             <img src="image3.png" id="image3">
             <img src="image4.png" id="image4">
@@ -45,7 +46,7 @@ Publish the website in the given URL.
         <br>
         <br>
         <h1 align="center">&copy;Image Gallery|Designed by:</h1>
-        <h2 align="center">V.Karthi-(25017522)</h2>
+        <h2 align="center">V.Priyadharshini -(25018161)</h2>
         <script src="image.js"></script>
     </body>
 </html>
